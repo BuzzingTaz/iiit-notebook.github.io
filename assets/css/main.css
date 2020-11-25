@@ -11,7 +11,7 @@ body {
 }
 
 p {
-    font-family: serif, Arial, Helvetica, sans-serif;
+    font-family: Georgia, serif;
 }
 
 h1 {
@@ -60,3 +60,7 @@ img[alt="block"] {
     margin: auto;
 }
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
